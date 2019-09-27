@@ -1,5 +1,6 @@
 # Niryo One ROS Simulation
 Licensed under GPLv3 (see [LICENSE file](https://github.com/NiryoRobotics/niryo_one_ros_simulation/blob/master/LICENSE))
+
 Works on ROS Kinetic/Melodic.
 
 ROS simulation for the robot [Niryo One](https://niryo.com/niryo-one/). You can control the robot using ros_control, Moveit, and see a 3D simulation on both Rviz and Gazebo.
