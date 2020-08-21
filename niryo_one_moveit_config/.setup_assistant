@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: niryo_one_description
+    relative_path: urdf/niryo_one.urdf.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/niryo_one.srdf
+  CONFIG:
+    author_name: nikolas
+    author_email: nil518@lehigh.edu
+    generated_timestamp: 1595618667
